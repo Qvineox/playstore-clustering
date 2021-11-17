@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AIS/.idea/AIS.iml" filepath="$PROJECT_DIR$/../AIS/.idea/AIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/playstore-kmeans.iml" filepath="$PROJECT_DIR$/.idea/playstore-kmeans.iml" />
+    </modules>
+  </component>
+</project>
